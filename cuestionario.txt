@@ -1,0 +1,20 @@
+Tomás Occelli / Rodrigo Picazo 12-1
+1. En tus palabras, ¿Qué es internet?
+El internet es un espacio virtual creado por humanos que es parecido a una red donde abres un buscador y vez cosas que a subido la genet
+2. Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+La información se transmite fisicamente por ondas dee sonido o por algo que podamos representar con la vista como puede ser un dibujo o algo de texto
+DNS son las iniciales de Domain Name System (sistema de nombres de dominio) y es una tecnología basada en una base de datos que sirve para resolver nombres en las redes, es decir, para conocer la dirección IP de la máquina donde está alojado el dominio al que queremos acceder.
+4. Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+No estoy seguro de como es que sucede este proceso, no lo encontre en internet pero me imagino que hay un codigo que busca la canción y la importa al telefono
+5. Describe los protocolos que existen en internet, en específico HTTP y HTML
+Son lenguajes de propagación que podrian ser llamados el esqueleto del internet
+6. En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+Lo que aprendi fue que Si se utiliza correctamente, el cifrado de extremo a extremo puede ayudar a proteger el contenido de sus mensajes, texto e incluso archivos para que nadie los entienda, excepto sus destinatarios previstos. También se puede utilizar para probar que un mensaje proviene de una persona en particular y no ha sido alterado.
+
+En los últimos años, las herramientas de cifrado de extremo a extremo se han vuelto más usables. Las herramientas de mensajería segura como Signal (iOS o Android) para llamadas telefónicas, videollamadas, chats y uso compartido de archivos son buenos ejemplos de aplicaciones que utilizan cifrado de extremo a extremo para cifrar mensajes entre el remitente y el destinatario previsto. Estas herramientas hacen que los mensajes sean ilegibles para los que escuchan a escondidas en la red, así como para los propios proveedores de servicios.
+7. En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+Aprendí dos cosas esenciales: No hagas clic en mensajes de redes sociales como Twitter o Facebook que se vean sospechosos o donde haya muchas personas etiquetadas. Si te etiquetan en uno, pregúntale a la persona que al parecer lo hizo si ella fue y qué contenido tiene el mensaje.
+
+Cuando no conozcas el remitente de un correo electrónico, no abras los archivos adjuntos que esta persona envíe. Confirma primero la información que te enviaron con esa persona para ahora sí descargar cualquier archivo adjunto.
+8. ¿Cómo funciona la búsqueda de google?
+Una vez que sabes la URL de una página, la visitas para averiguar qué contiene. Renderizas la página y analizas el contenido textual y no textual, además del diseño visual general, para decidir cómo mostrarla en los resultados de la Búsqueda.
